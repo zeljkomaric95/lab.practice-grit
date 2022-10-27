@@ -1,0 +1,72 @@
+[2022-10-26 16:54:00.016] [remoteagent] [info] Extension host agent started.
+[2022-10-26 16:54:00.226] [remoteagent] [info] [127.0.0.1][66af40a8][ManagementConnection] New connection established.
+[2022-10-26 16:54:00.228] [remoteagent] [info] [127.0.0.1][69163520][ExtensionHostConnection] New connection established.
+[2022-10-26 16:54:01.849] [remoteagent] [info] [127.0.0.1][69163520][ExtensionHostConnection] <5179> Launched Extension Host Process.
+[2022-10-26 16:55:01.185] [remoteagent] [info] [127.0.0.1][8a876dac][ManagementConnection] New connection established.
+[2022-10-26 16:55:01.188] [remoteagent] [info] [127.0.0.1][ef8b40e0][ExtensionHostConnection] New connection established.
+[2022-10-26 16:55:01.211] [remoteagent] [info] [127.0.0.1][ef8b40e0][ExtensionHostConnection] <5443> Launched Extension Host Process.
+[2022-10-26 16:55:31.904] [remoteagent] [info] [127.0.0.1][9ec899a3][ManagementConnection] New connection established.
+[2022-10-26 16:55:31.913] [remoteagent] [info] [127.0.0.1][9022ed1b][ExtensionHostConnection] New connection established.
+[2022-10-26 16:55:31.939] [remoteagent] [info] [127.0.0.1][9022ed1b][ExtensionHostConnection] <5533> Launched Extension Host Process.
+[2022-10-26 16:55:38.150] [remoteagent] [info] [127.0.0.1][9ec899a3][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-10-26 16:55:38.215] [remoteagent] [info] [127.0.0.1][9022ed1b][ExtensionHostConnection] <5533> Extension Host Process exited with code: 0, signal: null.
+[2022-10-26 16:55:59.714] [remoteagent] [info] [127.0.0.1][8a876dac][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-10-26 16:55:59.753] [remoteagent] [info] [127.0.0.1][ef8b40e0][ExtensionHostConnection] <5443> Extension Host Process exited with code: 0, signal: null.
+[2022-10-26 16:56:47.843] [remoteagent] [info] Getting Manifest... swellaby.node-pack
+[2022-10-26 16:56:48.032] [remoteagent] [info] Installing extension: swellaby.node-pack
+[2022-10-26 16:56:48.255] [remoteagent] [info] Getting Manifest... visualstudioexptteam.vscodeintellicode
+[2022-10-26 16:56:48.527] [remoteagent] [info] Getting Manifest... visualstudioexptteam.intellicode-api-usage-examples
+[2022-10-26 16:56:48.649] [remoteagent] [info] Getting Manifest... dbaeumer.vscode-eslint
+[2022-10-26 16:56:48.832] [remoteagent] [info] Getting Manifest... christian-kohler.path-intellisense
+[2022-10-26 16:56:48.959] [remoteagent] [info] Getting Manifest... christian-kohler.npm-intellisense
+[2022-10-26 16:56:49.107] [remoteagent] [info] Getting Manifest... pflannery.vscode-versionlens
+[2022-10-26 16:56:49.342] [remoteagent] [info] Installing extension: visualstudioexptteam.vscodeintellicode swellaby.node-pack
+[2022-10-26 16:56:49.342] [remoteagent] [info] Installing extension: visualstudioexptteam.intellicode-api-usage-examples swellaby.node-pack
+[2022-10-26 16:56:49.343] [remoteagent] [info] Installing extension: dbaeumer.vscode-eslint swellaby.node-pack
+[2022-10-26 16:56:49.343] [remoteagent] [info] Installing extension: christian-kohler.path-intellisense swellaby.node-pack
+[2022-10-26 16:56:49.343] [remoteagent] [info] Installing extension: christian-kohler.npm-intellisense swellaby.node-pack
+[2022-10-26 16:56:49.343] [remoteagent] [info] Installing extension: pflannery.vscode-versionlens swellaby.node-pack
+[2022-10-26 16:56:50.065] [remoteagent] [info] Downloaded extension: christian-kohler.path-intellisense /home/zeljkomaric95/.vscode-server/data/CachedExtensionVSIXs/christian-kohler.path-intellisense-2.8.1
+[2022-10-26 16:56:50.310] [remoteagent] [info] Extracted extension to /home/zeljkomaric95/.vscode-server/extensions/.05749100-c70b-42c1-a150-67069b23fd75: christian-kohler.path-intellisense
+[2022-10-26 16:56:50.328] [remoteagent] [info] Renamed to /home/zeljkomaric95/.vscode-server/extensions/christian-kohler.path-intellisense-2.8.1
+[2022-10-26 16:56:50.339] [remoteagent] [info] Extracting completed. christian-kohler.path-intellisense
+[2022-10-26 16:56:51.350] [remoteagent] [info] Downloaded extension: dbaeumer.vscode-eslint /home/zeljkomaric95/.vscode-server/data/CachedExtensionVSIXs/dbaeumer.vscode-eslint-2.2.6
+[2022-10-26 16:56:51.570] [remoteagent] [info] Extracted extension to /home/zeljkomaric95/.vscode-server/extensions/.cfe00490-e710-4234-a896-e9bb84f27152: dbaeumer.vscode-eslint
+[2022-10-26 16:56:51.583] [remoteagent] [info] Renamed to /home/zeljkomaric95/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6
+[2022-10-26 16:56:51.593] [remoteagent] [info] Extracting completed. dbaeumer.vscode-eslint
+[2022-10-26 16:56:52.433] [remoteagent] [info] Downloaded extension: pflannery.vscode-versionlens /home/zeljkomaric95/.vscode-server/data/CachedExtensionVSIXs/pflannery.vscode-versionlens-1.0.10
+[2022-10-26 16:56:52.580] [remoteagent] [info] Downloaded extension: christian-kohler.npm-intellisense /home/zeljkomaric95/.vscode-server/data/CachedExtensionVSIXs/christian-kohler.npm-intellisense-1.4.2
+[2022-10-26 16:56:52.607] [remoteagent] [info] Downloaded extension: visualstudioexptteam.intellicode-api-usage-examples /home/zeljkomaric95/.vscode-server/data/CachedExtensionVSIXs/visualstudioexptteam.intellicode-api-usage-examples-0.2.6
+[2022-10-26 16:56:52.731] [remoteagent] [info] Extracted extension to /home/zeljkomaric95/.vscode-server/extensions/.dc67c467-d54a-4cc0-8fa7-c520e640c6cb: christian-kohler.npm-intellisense
+[2022-10-26 16:56:53.307] [remoteagent] [info] Renamed to /home/zeljkomaric95/.vscode-server/extensions/christian-kohler.npm-intellisense-1.4.2
+[2022-10-26 16:56:53.310] [remoteagent] [info] Downloaded extension: visualstudioexptteam.vscodeintellicode /home/zeljkomaric95/.vscode-server/data/CachedExtensionVSIXs/visualstudioexptteam.vscodeintellicode-1.2.29
+[2022-10-26 16:56:53.319] [remoteagent] [info] Extracting completed. christian-kohler.npm-intellisense
+[2022-10-26 16:56:53.750] [remoteagent] [info] Extracted extension to /home/zeljkomaric95/.vscode-server/extensions/.c5b7babb-1f92-4e6e-858c-33d008f58d64: visualstudioexptteam.intellicode-api-usage-examples
+[2022-10-26 16:56:53.770] [remoteagent] [info] Renamed to /home/zeljkomaric95/.vscode-server/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.6
+[2022-10-26 16:56:53.786] [remoteagent] [info] Extracting completed. visualstudioexptteam.intellicode-api-usage-examples
+[2022-10-26 16:56:57.903] [remoteagent] [info] Extracted extension to /home/zeljkomaric95/.vscode-server/extensions/.f2a2d33c-cf78-44df-8035-1fff4a3c5cc2: visualstudioexptteam.vscodeintellicode
+[2022-10-26 16:56:57.975] [remoteagent] [info] Renamed to /home/zeljkomaric95/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.29
+[2022-10-26 16:56:57.989] [remoteagent] [info] Extracting completed. visualstudioexptteam.vscodeintellicode
+[2022-10-26 16:56:58.750] [remoteagent] [info] Extracted extension to /home/zeljkomaric95/.vscode-server/extensions/.5c348b17-0a8a-4ec1-b0ba-f79e4b6ad7f8: pflannery.vscode-versionlens
+[2022-10-26 16:56:58.885] [remoteagent] [info] Renamed to /home/zeljkomaric95/.vscode-server/extensions/pflannery.vscode-versionlens-1.0.10
+[2022-10-26 16:56:58.893] [remoteagent] [info] Extracting completed. pflannery.vscode-versionlens
+[2022-10-26 16:56:59.377] [remoteagent] [info] Downloaded extension: swellaby.node-pack /home/zeljkomaric95/.vscode-server/data/CachedExtensionVSIXs/swellaby.node-pack-0.1.16
+[2022-10-26 16:56:59.403] [remoteagent] [info] Extracted extension to /home/zeljkomaric95/.vscode-server/extensions/.d758797f-1f3b-47f6-86d2-d8fe2fdc399a: swellaby.node-pack
+[2022-10-26 16:56:59.415] [remoteagent] [info] Renamed to /home/zeljkomaric95/.vscode-server/extensions/swellaby.node-pack-0.1.16
+[2022-10-26 16:56:59.424] [remoteagent] [info] Extracting completed. swellaby.node-pack
+[2022-10-26 16:56:59.424] [remoteagent] [info] Extension installed successfully: christian-kohler.path-intellisense
+[2022-10-26 16:56:59.424] [remoteagent] [info] Extension installed successfully: dbaeumer.vscode-eslint
+[2022-10-26 16:56:59.424] [remoteagent] [info] Extension installed successfully: christian-kohler.npm-intellisense
+[2022-10-26 16:56:59.424] [remoteagent] [info] Extension installed successfully: visualstudioexptteam.intellicode-api-usage-examples
+[2022-10-26 16:56:59.425] [remoteagent] [info] Extension installed successfully: visualstudioexptteam.vscodeintellicode
+[2022-10-26 16:56:59.425] [remoteagent] [info] Extension installed successfully: pflannery.vscode-versionlens
+[2022-10-26 16:56:59.425] [remoteagent] [info] Extension installed successfully: swellaby.node-pack
+[2022-10-26 16:57:12.931] [remoteagent] [info] Getting Manifest... ms-vscode.js-debug-nightly
+[2022-10-26 16:57:13.124] [remoteagent] [info] Installing extension: ms-vscode.js-debug-nightly
+[2022-10-26 16:57:13.665] [remoteagent] [info] Downloaded extension: ms-vscode.js-debug-nightly /home/zeljkomaric95/.vscode-server/data/CachedExtensionVSIXs/ms-vscode.js-debug-nightly-2022.10.1317
+[2022-10-26 16:57:13.900] [remoteagent] [info] Extracted extension to /home/zeljkomaric95/.vscode-server/extensions/.31835256-284c-41bb-9ac7-4d0a41c3515c: ms-vscode.js-debug-nightly
+[2022-10-26 16:57:13.924] [remoteagent] [info] Renamed to /home/zeljkomaric95/.vscode-server/extensions/ms-vscode.js-debug-nightly-2022.10.1317
+[2022-10-26 16:57:13.954] [remoteagent] [info] Extracting completed. ms-vscode.js-debug-nightly
+[2022-10-26 16:57:13.955] [remoteagent] [info] Extension installed successfully: ms-vscode.js-debug-nightly
+[2022-10-26 16:59:26.101] [remoteagent] [info] [127.0.0.1][66af40a8][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-10-26 16:59:26.124] [remoteagent] [info] [127.0.0.1][69163520][ExtensionHostConnection] <5179> Extension Host Process exited with code: 0, signal: null.

@@ -1,0 +1,32 @@
+[2022-10-26T22:55:04.206Z] Log level: Info
+[2022-10-26T22:55:04.212Z] [info] Validating found git in: git
+[2022-10-26T22:55:04.260Z] [info] Using git 2.25.1 from git
+[2022-10-26T22:55:04.305Z] > git rev-parse --show-toplevel [16ms]
+[2022-10-26T22:55:04.305Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-10-26T22:55:04.354Z] > git rev-parse --show-toplevel [22ms]
+[2022-10-26T22:55:04.354Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-10-26T22:55:04.382Z] > git rev-parse --show-toplevel [5ms]
+[2022-10-26T22:55:04.382Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-10-26T22:55:04.414Z] > git rev-parse --show-toplevel [8ms]
+[2022-10-26T22:55:04.438Z] > git rev-parse --git-dir --git-common-dir [4ms]
+[2022-10-26T22:55:04.446Z] [info] Open repository: /home/zeljkomaric95/.nvm
+[2022-10-26T22:55:04.497Z] > git rev-parse --show-toplevel [4ms]
+[2022-10-26T22:55:04.498Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-10-26T22:55:04.526Z] > git rev-parse --show-toplevel [4ms]
+[2022-10-26T22:55:04.526Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-10-26T22:55:04.682Z] > git status -z -uall [210ms]
+[2022-10-26T22:55:04.708Z] > git symbolic-ref --short HEAD [5ms]
+[2022-10-26T22:55:04.708Z] fatal: ref HEAD is not a symbolic ref
+[2022-10-26T22:55:04.735Z] > git rev-parse HEAD [5ms]
+[2022-10-26T22:55:04.783Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [26ms]
+[2022-10-26T22:55:04.788Z] > git remote --verbose [11ms]
+[2022-10-26T22:55:04.819Z] > git config --get commit.template [5ms]
+[2022-10-26T22:55:04.865Z] > git status -z -uall [23ms]
+[2022-10-26T22:55:04.891Z] > git symbolic-ref --short HEAD [4ms]
+[2022-10-26T22:55:04.891Z] fatal: ref HEAD is not a symbolic ref
+[2022-10-26T22:55:04.917Z] > git rev-parse HEAD [4ms]
+[2022-10-26T22:55:04.961Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [23ms]
+[2022-10-26T22:55:04.964Z] > git remote --verbose [4ms]
+[2022-10-26T22:55:04.990Z] > git config --get commit.template [3ms]
+[2022-10-26T22:55:05.077Z] > git check-ignore -v -z --stdin [29ms]
+[2022-10-26T22:55:49.912Z] > git check-ignore -v -z --stdin [4ms]

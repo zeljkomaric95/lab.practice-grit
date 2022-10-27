@@ -1,0 +1,148 @@
+[Trace 01:23:46.056] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/zeljkomaric95/README.md
+[Trace 01:23:46.057] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/zeljkomaric95/README.md
+[Trace 01:23:46.059] Server: connection.languages.diagnostics.on: file:///home/zeljkomaric95/README.md
+[Trace 01:23:46.064] Server: connection.languages.diagnostics.on: file:///home/zeljkomaric95/README.md
+[Trace 01:23:46.072] DocumentSymbolProvider: provideDocumentSymbols — file:///home/zeljkomaric95/README.md 1
+[Debug 01:23:46.075] LinkProvider: compute - file:///home/zeljkomaric95/README.md
+[Debug 01:23:46.291] TableOfContentsProvider: create - file:///home/zeljkomaric95/README.md
+[Debug 01:23:46.292] MdFoldingProvider: provideFoldingRanges — file:///home/zeljkomaric95/README.md 1
+[Trace 01:24:12.960] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/zeljkomaric95/README.md
+[Trace 01:24:12.961] VsCodeClientWorkspace: deleteDocument: file:///home/zeljkomaric95/README.md
+[Trace 01:24:12.964] Server: connection.languages.diagnostics.on: file:///home/zeljkomaric95/README.md
+[Trace 01:24:12.966] Server: connection.languages.diagnostics.on: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:24:13.041] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:24:13.041] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:24:13.041] Server: connection.languages.diagnostics.on: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:24:13.042] DocumentSymbolProvider: provideDocumentSymbols — file:///home/zeljkomaric95/week6class2/README.md 1
+[Debug 01:24:13.042] LinkProvider: compute - file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:24:13.078] Server: connection.languages.diagnostics.on: file:///home/zeljkomaric95/week6class2/README.md
+[Debug 01:24:13.090] TableOfContentsProvider: create - file:///home/zeljkomaric95/week6class2/README.md
+[Debug 01:24:13.184] MdFoldingProvider: provideFoldingRanges — file:///home/zeljkomaric95/week6class2/README.md 1
+[Trace 01:24:13.221] VsCodeClientWorkspace: onDidChangeWatchedFiles: 1: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:24:13.317] VsCodeClientWorkspace: onDidChangeWatchedFiles: 3: file:///home/zeljkomaric95/README.md
+[Trace 01:24:58.875] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:24:58.875] Server: connection.languages.diagnostics.on: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:24:59.056] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:24:59.056] Server: connection.languages.diagnostics.on: file:///home/zeljkomaric95/week6class2/README.md
+[Debug 01:24:59.259] MdFoldingProvider: provideFoldingRanges — file:///home/zeljkomaric95/week6class2/README.md 3
+[Debug 01:24:59.259] TableOfContentsProvider: create - file:///home/zeljkomaric95/week6class2/README.md
+[Debug 01:24:59.308] LinkProvider: compute - file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:24:59.374] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:24:59.375] Server: connection.languages.diagnostics.on: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:24:59.486] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:24:59.487] Server: connection.languages.diagnostics.on: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:24:59.648] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:24:59.649] Server: connection.languages.diagnostics.on: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:24:59.766] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:24:59.767] Server: connection.languages.diagnostics.on: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:24:59.878] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:24:59.878] Server: connection.languages.diagnostics.on: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:24:59.959] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:24:59.960] Server: connection.languages.diagnostics.on: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:00.082] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:00.083] Server: connection.languages.diagnostics.on: file:///home/zeljkomaric95/week6class2/README.md
+[Debug 01:25:00.289] MdFoldingProvider: provideFoldingRanges — file:///home/zeljkomaric95/week6class2/README.md 10
+[Debug 01:25:00.289] TableOfContentsProvider: create - file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:00.320] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:00.320] Server: connection.languages.diagnostics.on: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:00.441] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:00.442] Server: connection.languages.diagnostics.on: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:00.590] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:00.591] Server: connection.languages.diagnostics.on: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:00.726] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:00.726] Server: connection.languages.diagnostics.on: file:///home/zeljkomaric95/week6class2/README.md
+[Debug 01:25:00.923] MdFoldingProvider: provideFoldingRanges — file:///home/zeljkomaric95/week6class2/README.md 14
+[Debug 01:25:00.923] TableOfContentsProvider: create - file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:01.078] DocumentSymbolProvider: provideDocumentSymbols — file:///home/zeljkomaric95/week6class2/README.md 14
+[Debug 01:25:01.078] LinkProvider: compute - file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:02.134] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:02.135] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:02.135] Server: connection.languages.diagnostics.on: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:02.663] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/zeljkomaric95/week6class2/README.md
+[Debug 01:25:02.664] MdFoldingProvider: provideFoldingRanges — file:///home/zeljkomaric95/week6class2/README.md 17
+[Debug 01:25:02.664] TableOfContentsProvider: create - file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:02.664] DocumentSymbolProvider: provideDocumentSymbols — file:///home/zeljkomaric95/week6class2/README.md 17
+[Debug 01:25:02.664] LinkProvider: compute - file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:02.682] Server: connection.languages.diagnostics.on: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:02.687] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:02.712] Server: connection.languages.diagnostics.on: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:02.810] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:02.810] Server: connection.languages.diagnostics.on: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:02.957] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:02.957] Server: connection.languages.diagnostics.on: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:03.099] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:03.101] Server: connection.languages.diagnostics.on: file:///home/zeljkomaric95/week6class2/README.md
+[Debug 01:25:03.295] MdFoldingProvider: provideFoldingRanges — file:///home/zeljkomaric95/week6class2/README.md 21
+[Debug 01:25:03.296] TableOfContentsProvider: create - file:///home/zeljkomaric95/week6class2/README.md
+[Debug 01:25:03.348] LinkProvider: compute - file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:03.454] DocumentSymbolProvider: provideDocumentSymbols — file:///home/zeljkomaric95/week6class2/README.md 21
+[Trace 01:25:04.521] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:04.521] Server: connection.languages.diagnostics.on: file:///home/zeljkomaric95/week6class2/README.md
+[Debug 01:25:04.715] MdFoldingProvider: provideFoldingRanges — file:///home/zeljkomaric95/week6class2/README.md 22
+[Debug 01:25:04.715] TableOfContentsProvider: create - file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:04.749] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:04.749] Server: connection.languages.diagnostics.on: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:04.909] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:04.909] Server: connection.languages.diagnostics.on: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:05.013] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:05.013] Server: connection.languages.diagnostics.on: file:///home/zeljkomaric95/week6class2/README.md
+[Debug 01:25:05.210] MdFoldingProvider: provideFoldingRanges — file:///home/zeljkomaric95/week6class2/README.md 25
+[Debug 01:25:05.210] TableOfContentsProvider: create - file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:05.261] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:05.261] Server: connection.languages.diagnostics.on: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:05.406] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:05.406] Server: connection.languages.diagnostics.on: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:05.526] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:05.527] Server: connection.languages.diagnostics.on: file:///home/zeljkomaric95/week6class2/README.md
+[Debug 01:25:05.729] MdFoldingProvider: provideFoldingRanges — file:///home/zeljkomaric95/week6class2/README.md 28
+[Debug 01:25:05.729] TableOfContentsProvider: create - file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:05.852] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:05.852] Server: connection.languages.diagnostics.on: file:///home/zeljkomaric95/week6class2/README.md
+[Debug 01:25:06.054] MdFoldingProvider: provideFoldingRanges — file:///home/zeljkomaric95/week6class2/README.md 29
+[Debug 01:25:06.054] TableOfContentsProvider: create - file:///home/zeljkomaric95/week6class2/README.md
+[Debug 01:25:06.101] LinkProvider: compute - file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:06.208] DocumentSymbolProvider: provideDocumentSymbols — file:///home/zeljkomaric95/week6class2/README.md 29
+[Trace 01:25:07.440] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:07.440] Server: connection.languages.diagnostics.on: file:///home/zeljkomaric95/week6class2/README.md
+[Debug 01:25:07.648] MdFoldingProvider: provideFoldingRanges — file:///home/zeljkomaric95/week6class2/README.md 30
+[Debug 01:25:07.648] TableOfContentsProvider: create - file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:07.709] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:07.709] Server: connection.languages.diagnostics.on: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:07.715] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:07.716] Server: connection.languages.diagnostics.on: file:///home/zeljkomaric95/week6class2/README.md
+[Debug 01:25:07.915] MdFoldingProvider: provideFoldingRanges — file:///home/zeljkomaric95/week6class2/README.md 32
+[Debug 01:25:07.915] TableOfContentsProvider: create - file:///home/zeljkomaric95/week6class2/README.md
+[Debug 01:25:07.961] LinkProvider: compute - file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:08.106] DocumentSymbolProvider: provideDocumentSymbols — file:///home/zeljkomaric95/week6class2/README.md 32
+[Trace 01:25:08.109] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:08.109] Server: connection.languages.diagnostics.on: file:///home/zeljkomaric95/week6class2/README.md
+[Debug 01:25:08.354] MdFoldingProvider: provideFoldingRanges — file:///home/zeljkomaric95/week6class2/README.md 33
+[Debug 01:25:08.354] TableOfContentsProvider: create - file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:08.889] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:08.890] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:08.890] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:08.890] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:08.890] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/zeljkomaric95/week6class2/README.md
+[Debug 01:25:08.890] LinkProvider: compute - file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:08.890] Server: connection.languages.diagnostics.on: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:08.915] Server: connection.languages.diagnostics.on: file:///home/zeljkomaric95/week6class2/README.md
+[Debug 01:25:09.054] MdFoldingProvider: provideFoldingRanges — file:///home/zeljkomaric95/week6class2/README.md 38
+[Debug 01:25:09.054] TableOfContentsProvider: create - file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:09.095] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:09.095] Server: connection.languages.diagnostics.on: file:///home/zeljkomaric95/week6class2/README.md
+[Debug 01:25:09.292] MdFoldingProvider: provideFoldingRanges — file:///home/zeljkomaric95/week6class2/README.md 39
+[Debug 01:25:09.292] TableOfContentsProvider: create - file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:09.454] DocumentSymbolProvider: provideDocumentSymbols — file:///home/zeljkomaric95/week6class2/README.md 39
+[Debug 01:25:09.454] LinkProvider: compute - file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:10.045] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:10.046] Server: connection.languages.diagnostics.on: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:10.125] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:10.125] Server: connection.languages.diagnostics.on: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:10.294] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:10.294] Server: connection.languages.diagnostics.on: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:10.353] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:10.353] Server: connection.languages.diagnostics.on: file:///home/zeljkomaric95/week6class2/README.md
+[Debug 01:25:10.560] MdFoldingProvider: provideFoldingRanges — file:///home/zeljkomaric95/week6class2/README.md 43
+[Debug 01:25:10.560] TableOfContentsProvider: create - file:///home/zeljkomaric95/week6class2/README.md
+[Debug 01:25:10.606] LinkProvider: compute - file:///home/zeljkomaric95/week6class2/README.md
+[Trace 01:25:10.700] DocumentSymbolProvider: provideDocumentSymbols — file:///home/zeljkomaric95/week6class2/README.md 43

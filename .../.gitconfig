@@ -1,0 +1,5 @@
+[user]
+	name = Zeljkomaric95
+	email = zeljkomaric95@gmail.com
+[credential]
+	helper = /mnt/c/Program\\ Files/Git/mingw64/libexec/git-core/git-credential-manager.exe
